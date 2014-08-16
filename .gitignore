@@ -1,0 +1,15 @@
+# JetBrains IDE like Intellij IDEA or Webstorm
+.idea/
+
+# vagrant files
+.vagrant/
+Berksfile.lock
+
+# Latex
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
